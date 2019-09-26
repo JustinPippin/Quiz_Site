@@ -1,0 +1,21 @@
+#submit, #reset {
+    font-size: 20px;
+    background-color: orchid;
+    padding: 10px;
+    cursor: pointer;
+    display: block;
+    width: 200px;
+    margin-bottom: 20px;
+} 
+
+#submit:hover, #reset:hover {
+    background-color: hotpink;
+}
+
+.answers {
+    margin-bottom: 10px;
+}
+
+.answers label {
+    display: block;
+}
